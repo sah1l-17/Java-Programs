@@ -22,3 +22,6 @@ public class trapped_water {
         System.out.println(trap(height));
     }
 }
+// Output: 6
+// Time Complexity: O(n)
+// Space Complexity: O(n)
